@@ -51,10 +51,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu260205&layout=compact&theme=tokyonight)
 
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu260205&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
