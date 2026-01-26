@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Machine Learning fundamentals**
 - 🧠 Exploring **Data Science concepts**
 - 🛠️ Building projects using **Python, Flask, and React**
-- 📌 Learning by building and improving every day
+- 📌 Learning by building projects and strengthening DSA using Java
 
 ---
 
@@ -18,6 +18,7 @@
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,8 +53,16 @@
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu260205&theme=tokyonight&hide_border=true)
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu260205&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 📌 Learning Focus
+- 📘 Strengthening **Python & Data Structures(using JAVA)**
+- 🤖 Learning **Machine Learning fundamentals**
+- 🌐 Building **Flask + React** projects
+- 📊 Practicing **Data Analysis with Pandas & NumPy**
 
 
 ---
