@@ -47,9 +47,9 @@
 
 ## 📈 GitHub Stats
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu260205&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshu260205&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu260205&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshu260205&layout=compact&theme=tokyonight)
 
 
 ---
