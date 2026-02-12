@@ -64,7 +64,6 @@
 ---
 
 ## 🤝 Connect With Me
-- GitHub: [PriyanshuGoyal](https://github.com/Priyanshu260205)
 - LinkedIn: [PriyanshuGoyal](https://www.linkedin.com/in/priyanshugoyal2602)
 
 ---
